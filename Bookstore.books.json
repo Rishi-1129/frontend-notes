@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65fbf940c1b4949baf41bd59"
+  },
+  "title": "The ocean",
+  "author": "Rishika",
+  "rating": 9,
+  "pages": 600,
+  "genres": [
+    "fantacy",
+    "comedy"
+  ],
+  "reviews": [
+    {}
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fbf9acc1b4949baf41bd5a"
+  },
+  "title": "The ocean1",
+  "author": "Rishika1",
+  "rating": 5,
+  "pages": 700,
+  "genres": [
+    "fantacy",
+    "comedy",
+    "thriller"
+  ],
+  "reviews": [
+    {
+      "name": "Sanjith",
+      "body": "Great book"
+    },
+    {
+      "name": "Abi",
+      "body": "good feeling"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fbfa32c1b4949baf41bd5b"
+  },
+  "title": "The ocean",
+  "author": "Rishika",
+  "rating": 9,
+  "pages": 600,
+  "genres": [
+    "fantacy",
+    "comedy"
+  ],
+  "reviews": [
+    {
+      "name": "ABC",
+      "Body": "good feeling"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65fbfa32c1b4949baf41bd5c"
+  },
+  "acknowledged": true,
+  "insertedId": {
+    "$oid": "65fbfa32c1b4949baf41bd5b"
+  }
+}]
